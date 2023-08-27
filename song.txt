@@ -1,2 +1,3 @@
 First line 
-Second line (from hub)
+Second line hub
+Added material in feature + deleted () to make a conflict
